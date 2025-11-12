@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+build/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+dist/builder-debug.yml
+dist/builder-effective-config.yaml
+dist/latest.yml
+/dist/win-unpacked
+dist/J5 Pharmacy Management System-Setup.exe.blockmap
+dist/J5PMS-setup.exe.blockmap
+dist/J5PMS-setup.exe
+
+/schema
+/electron
